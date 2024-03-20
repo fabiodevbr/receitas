@@ -1,0 +1,48 @@
+[
+    {
+        "episodios": [
+            {
+                "episodio": 1,
+                "url": "https://s2.lightspeedst.net/s2/mp4/ore-dake-level-up-na-ken/sd/1.mp4"
+            },
+            {
+                "episodio": 2,
+                "url": "https://s2.lightspeedst.net/s2/mp4/ore-dake-level-up-na-ken/sd/2.mp4"
+            },
+            {
+                "episodio": 3,
+                "url": "https://s2.lightspeedst.net/s2/mp4/ore-dake-level-up-na-ken/sd/3.mp4"
+            },
+            {
+                "episodio": 4,
+                "url": "https://s2.lightspeedst.net/s2/mp4/ore-dake-level-up-na-ken/sd/4.mp4"
+            },
+            {
+                "episodio": 5,
+                "url": "https://s2.lightspeedst.net/s2/mp4/ore-dake-level-up-na-ken/sd/5.mp4"
+            },
+            {
+                "episodio": 6,
+                "url": "https://s2.lightspeedst.net/s2/mp4/ore-dake-level-up-na-ken/sd/6.mp4"
+            },
+            {
+                "episodio": 7,
+                "url": "https://s2.lightspeedst.net/s2/mp4/ore-dake-level-up-na-ken/sd/7.mp4"
+            },
+            {
+                "episodio": 8,
+                "url": "https://s2.lightspeedst.net/s2/mp4/ore-dake-level-up-na-ken/sd/8.mp4"
+            },
+            {
+                "episodio": 9,
+                "url": "https://s2.lightspeedst.net/s2/mp4/ore-dake-level-up-na-ken/sd/9.mp4"
+            },
+            {
+                "episodio": 10,
+                "url": "https://s2.lightspeedst.net/s2/mp4/ore-dake-level-up-na-ken/sd/10.mp4"
+            }
+        ],
+        "temporada": 1,
+        "provider": "animefire"
+    }
+]
